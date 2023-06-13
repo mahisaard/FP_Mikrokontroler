@@ -4,7 +4,7 @@
 ### Moch Novandre Rega H	  (20081010253)
 ### Mahisa Ardana Wijaya		(20081010254)
 ------------------------------------------------------------------------------------------
-Repository ini memiliki kode Deep Learning yang sudah diubah sesuai ketentuan Final Project, File Deep_PID_iTCLab_IoT.ipynb untuk sekarang tidak bisa dilihat lewat github karena terlalu besar. File tersebut bisa dijalankan dengan Jupyter Notebook seperti yang penulis lakukan. 
+Repository ini memiliki kode Deep Learning yang sudah diubah sesuai ketentuan Final Project, File Deep_PID_iTCLab_IoT.ipynb untuk sekarang tidak bisa dilihat lewat github karena terlalu besar. File tersebut bisa dijalankan dengan Jupyter Notebook seperti yang penulis lakukan. Terdapat File Laporan Analisis berbentuk PDF yang merangkum hasil dan output dari program beserta penjelasan
 -------------------------------------------------------------------------------------------
 Ketentuan : 
 - File itclab.py harus dipasang satu folder dengan File Deep_PID_iTCLab_IoT.ipynb
